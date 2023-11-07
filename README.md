@@ -17,7 +17,7 @@
   <tr>
     <td>2</td>
     <td><a href="https://github.com/kiseleq/Portfolio/tree/main/Tableau_TED">Исследование истории TED-конференций</a></td>
-    <td>Построение различных дашбордов</td>
+    <td>Построение дашбордов Tableau</td>
     <td>Tableau</td>
   </tr>
   <tr>
