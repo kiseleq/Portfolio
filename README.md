@@ -10,9 +10,9 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="#">Название проекта</a></td>
-    <td>Описание проекта</td>
-    <td>Стек технологий</td>
+    <td><a href="https://github.com/kiseleq/Portfolio/tree/main/catering_Moscow">Рынок общепита в Москве</a></td>
+    <td>Исследование особенностей рынка обшественного питания в Москве</td>
+    <td>python, pandas, matplotlib, seaborn, plotly</td>
   </tr>
   <tr>
     <td>2</td>
@@ -22,6 +22,12 @@
   </tr>
   <tr>
     <td>3</td>
+    <td><a href="#">Название проекта</a></td>
+    <td>Описание проекта</td>
+    <td>Стек технологий</td>
+  </tr>
+  <tr>
+    <td>4</td>
     <td><a href="#">Название проекта</a></td>
     <td>Описание проекта</td>
     <td>Стек технологий</td>
