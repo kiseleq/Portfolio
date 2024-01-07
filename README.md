@@ -38,4 +38,10 @@
     <td>Тестирование изменений, связанных с внедрением улучшенной рекомендательной системы</td>
     <td>python, pandas, matplotlib, seaborn, plotly, statsmodels, numpy</td>
   </tr>
+   <tr>
+    <td>6</td>
+    <td><a href="https://github.com/kiseleq/Portfolio/tree/main/cohort_analysis_ent_app">Исследование маркетинговых результатов компании</a></td>
+    <td>Когортный анализ деятельности маркетингового отдела</td>
+    <td>python, pandas, matplotlib,  numpy</td>
+  </tr>
 </table>
