@@ -32,4 +32,10 @@
     <td>Исследование особенностей рынка обшественного питания в Москве</td>
     <td>python, pandas, matplotlib, seaborn, plotly</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://github.com/kiseleq/Portfolio/tree/main/AB_test_recommendation_system">Исследование результатов A/B теста. Новая рекомендательная система</a></td>
+    <td>Тестирование изменений, связанных с внедрением улучшенной рекомендательной системы</td>
+    <td>python, pandas, matplotlib, seaborn, plotly, statsmodels, numpy</td>
+  </tr>
 </table>
